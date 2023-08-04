@@ -254,6 +254,7 @@
 
 
 										<p>
+											
 										</p>
 									</div>
 								</div>
@@ -405,8 +406,10 @@
 																</div>
 																<div class="intro_layer slider-social" data-animation="fadeInLeft" data-delay="150">
 																	<div class="social-icons">
+																		
 																		<a href="https://www.instagram.com/" class="fa fa-instagram" title="instagram"></a>
 																		<a href="https://www.facebook.com/" class="fa fa-facebook" title="facebook"></a>
+																		
 																	</div>
 																</div>
 															</div> <!-- eof .intro_layers -->
@@ -803,12 +806,12 @@
 						<div class="col-12">
 							<p class="special-heading with-decoration text-center">
 								<span class="text-capitalize">
-									Šta mi radimo
+									What We Do
 								</span>
 							</p>
 							<h3 class="special-heading text-center">
 								<span class="text-capitalize ">
-									Naši projekti
+									Recent Projects
 								</span>
 							</h3>
 							<div class="fw-divider-space  divider-30"></div>
@@ -816,8 +819,10 @@
 								<div class="col-lg-12">
 									<div class="filters gallery-filters">
 										<a href="#" data-filter="*" class="active selected">All</a>
-										<a href="#" data-filter=".walkways">Laminati</a>
-										<a href="#" data-filter=".driveways">Parketi</a>
+										<a href="#" data-filter=".walkways">Walkways</a>
+										<a href="#" data-filter=".driveways">Driveways</a>
+										<a href="#" data-filter=".landscaping">Landscaping</a>
+										<a href="#" data-filter=".ambiance">Ambiance</a>
 									</div>
 								</div>
 							</div>
@@ -825,11 +830,11 @@
 								<div class="col-lg-4 col-md-6 walkways">
 									<div class="vertical-item item-gallery only-img ds">
 										<div class="item-media">
-											<img src="images/gallery/full/prva.jpg" alt="">
+											<img src="images/gallery/tiled/01.jpg" alt="">
 											<div class="media-links">
 												<div class="links-wrap">
-													<a class="link-zoom photoswipe-link" title="" href="images/gallery/full/prva.jpg"></a>
-													
+													<a class="link-zoom photoswipe-link" title="" href="images/gallery/full/01.jpg"></a>
+													<a class="link-anchor" title="" href="gallery-single.html"></a>
 												</div>
 											</div>
 										</div>
@@ -838,11 +843,11 @@
 								<div class="col-lg-4 col-md-6 ambiance driveways">
 									<div class="vertical-item item-gallery only-img ds">
 										<div class="item-media">
-											<img src="images/gallery/full/druga.jpg" alt="">
+											<img src="images/gallery/tiled/02.jpg" alt="">
 											<div class="media-links">
 												<div class="links-wrap">
-													<a class="link-zoom photoswipe-link" title="" href="images/gallery/full/druga.jpg"></a>
-													
+													<a class="link-zoom photoswipe-link" title="" href="images/gallery/full/02.jpg"></a>
+													<a class="link-anchor" title="" href="gallery-single.html"></a>
 												</div>
 											</div>
 										</div>
@@ -851,24 +856,11 @@
 								<div class="col-lg-4 col-md-6 walkways">
 									<div class="vertical-item item-gallery only-img ds">
 										<div class="item-media">
-											<img src="images/gallery/full/treca.jpg" alt="">
+											<img src="images/gallery/tiled/03.jpg" alt="">
 											<div class="media-links">
 												<div class="links-wrap">
-													<a class="link-zoom photoswipe-link" title="" href="images/gallery/full/treca.jpg"></a>
-													
-												</div>
-											</div>
-										</div>
-									</div>
-								</div>
-								<div class="col-lg-4 col-md-6 walkways">
-									<div class="vertical-item item-gallery only-img ds">
-										<div class="item-media">
-											<img src="images/gallery/full/cetvrta.jpg" alt="">
-											<div class="media-links">
-												<div class="links-wrap">
-													<a class="link-zoom photoswipe-link" title="" href="images/gallery/full/cetvrta.jpg"></a>
-													
+													<a class="link-zoom photoswipe-link" title="" href="images/gallery/full/03.jpg"></a>
+													<a class="link-anchor" title="" href="gallery-single.html"></a>
 												</div>
 											</div>
 										</div>
@@ -877,11 +869,11 @@
 								<div class="col-lg-4 col-md-6 driveways">
 									<div class="vertical-item item-gallery only-img ds">
 										<div class="item-media">
-											<img src="images/gallery/full/sedma.jpg" alt="">
+											<img src="images/gallery/tiled/04.jpg" alt="">
 											<div class="media-links">
 												<div class="links-wrap">
-													<a class="link-zoom photoswipe-link" title="" href="images/gallery/full/sedma.jpg"></a>
-													
+													<a class="link-zoom photoswipe-link" title="" href="images/gallery/full/04.jpg"></a>
+													<a class="link-anchor" title="" href="gallery-single.html"></a>
 												</div>
 											</div>
 										</div>
@@ -890,43 +882,29 @@
 								<div class="col-lg-4 col-md-6 driveways landscaping">
 									<div class="vertical-item item-gallery only-img ds">
 										<div class="item-media">
-											<img src="images/gallery/full/parket1.jpg" alt="">
+											<img src="images/gallery/tiled/05.jpg" alt="">
 											<div class="media-links">
 												<div class="links-wrap">
-													<a class="link-zoom photoswipe-link" title="" href="images/gallery/full/parket1.jpg"></a>
-													
-												</div>
-											</div>
-										</div>
-									</div>
-								</div>
-								<div class="col-lg-4 col-md-6 walkways">
-									<div class="vertical-item item-gallery only-img ds">
-										<div class="item-media">
-											<img src="images/gallery/full/sesta.jpg" alt="">
-											<div class="media-links">
-												<div class="links-wrap">
-													<a class="link-zoom photoswipe-link" title="" href="images/gallery/full/sesta.jpg"></a>
+													<a class="link-zoom photoswipe-link" title="" href="images/gallery/full/05.jpg"></a>
 													<a class="link-anchor" title="" href="gallery-single.html"></a>
 												</div>
 											</div>
 										</div>
 									</div>
 								</div>
-								<div class="col-lg-4 col-md-6 walkways">
+								<div class="col-lg-4 col-md-6 landscaping">
 									<div class="vertical-item item-gallery only-img ds">
 										<div class="item-media">
-											<img src="images/gallery/full/parket2.jpg" alt="">
+											<img src="images/gallery/tiled/06.jpg" alt="">
 											<div class="media-links">
 												<div class="links-wrap">
-													<a class="link-zoom photoswipe-link" title="" href="images/gallery/full/parket2.jpg"></a>
+													<a class="link-zoom photoswipe-link" title="" href="images/gallery/full/06.jpg"></a>
 													<a class="link-anchor" title="" href="gallery-single.html"></a>
 												</div>
 											</div>
 										</div>
 									</div>
 								</div>
-								
 							</div>
 							<!-- .isotope-wrapper-->
 							<div class="mb--30"></div>
@@ -1065,6 +1043,209 @@
 			</section>
 			<!--End Section Steps 2-->
 
+<<<<<<< HEAD
+			<!--Section Blog-->
+			<section id="blog" class="ls s-py-xl-150 s-py-lg-130 s-py-md-90 s-py-60">
+				<div class="container">
+					<div class="row">
+						<div class="col-12">
+							<p class="special-heading with-decoration text-center">
+								<span class="text-capitalize">
+									blog posts
+								</span>
+							</p>
+							<h3 class="special-heading text-center">
+								<span class="text-capitalize ">
+									Recent News
+								</span>
+							</h3>
+							<div class="fw-divider-space divider-30 divider-lg-50"></div>
+							<div class="owl-carousel shortcode-blog owl-shadowitems" data-dots="false" data-center="false" data-nav="false" data-autoplay="false" data-margin="50" data-loop="false" data-responsive-xxl="3" data-responsive-xl="3" data-responsive-lg="2" data-responsive-md="2" data-responsive-sm="1" data-responsive-xs="1">
+								<article class="vertical-item ls content-padding box-shadow post type-post status-publish format-standard has-post-thumbnail">
+									<div class="item-media post-thumbnail">
+										<a href="blog-single-right.html">
+											<img src="images/blog/shortcodes/01.jpg" alt="img">
+										</a>
+									</div>
+									<div class="item-content">
+										<header class="entry-header">
+											<div class="entry-meta">
+												<span class="cat-links">
+													<a href="blog-right.html" rel="category tag">
+														patios
+													</a>
+												</span>
+											</div>
+											<h5 class="entry-title">
+												<a href="blog-single-right.html" rel="bookmark">
+													9 Basic Steps to a Paver Installation
+												</a>
+											</h5>
+										</header>
+										<div class="entry-footer">
+											<div class="fw-divider-line-styled ls ms left-line"></div>
+											<div class="fw-divider-space divider-30 divider-lg-35"></div>
+											<div class="entry-meta">
+												<span class="author vcard">
+													by
+													<img src="images/team/testimonial1.jpg" alt="img">
+													<a class="url fn n" href="blog-right.html">Roger P. Johnson</a>
+												</span>
+												<div>
+													<span class="more-button">
+														<a class="btn btn-maincolor" href="blog-single-right.html">read more</a>
+													</span>
+													<span class="social-icons">
+														<a href="https://www.facebook.com/Lamijalaminati" class="fa fa-facebook" title="facebook"></a>
+														<a href="https://www.instagram.com/lamija_laminati_parketi/" class="fa fa-instagram" title="instagram"></a>
+														
+													</span>
+												</div>
+											</div>
+										</div>
+									</div>
+								</article>
+								<article class="vertical-item ls content-padding box-shadow post type-post status-publish format-standard has-post-thumbnail">
+									<div class="item-media post-thumbnail">
+										<a href="blog-single-right.html">
+											<img src="images/blog/shortcodes/02.jpg" alt="img">
+										</a>
+									</div>
+									<div class="item-content">
+										<header class="entry-header">
+											<div class="entry-meta">
+												<span class="cat-links">
+													<a href="blog-right.html" rel="category tag">
+														design
+													</a>
+												</span>
+											</div>
+											<h5 class="entry-title">
+												<a href="blog-single-right.html" rel="bookmark">
+													Paving Contractors VS Paver Contractor
+												</a>
+											</h5>
+										</header>
+										<div class="entry-footer">
+											<div class="fw-divider-line-styled ls ms left-line"></div>
+											<div class="fw-divider-space divider-30 divider-lg-35"></div>
+											<div class="entry-meta">
+												<span class="author vcard">
+													by
+													<img src="images/team/testimonial1.jpg" alt="img">
+													<a class="url fn n" href="blog-right.html">Marlene G. Purser</a>
+												</span>
+												<div>
+													<span class="more-button">
+														<a class="btn btn-maincolor" href="blog-single-right.html">read more</a>
+													</span>
+													<span class="social-icons">
+														<a href="https://www.facebook.com/" class="fa fa-facebook" title="facebook"></a>
+														<a href="https://www.instagram.com/" class="fa fa-instagram" title="instagram"></a>
+														<a href="https://web.telegram.org/" class="fa fa-paper-plane" title="telegram"></a>
+													</span>
+												</div>
+											</div>
+										</div>
+									</div>
+								</article>
+								<article class="vertical-item ls content-padding box-shadow post type-post status-publish format-standard has-post-thumbnail">
+									<div class="item-media post-thumbnail">
+										<a href="blog-single-right.html">
+											<img src="images/blog/shortcodes/03.jpg" alt="img">
+										</a>
+									</div>
+									<div class="item-content">
+										<header class="entry-header">
+											<div class="entry-meta">
+												<span class="cat-links">
+													<a href="blog-right.html" rel="category tag">
+														brick
+													</a>
+												</span>
+											</div>
+											<h5 class="entry-title">
+												<a href="blog-single-right.html" rel="bookmark">
+													The Concept of “Competitive”
+												</a>
+											</h5>
+										</header>
+										<div class="entry-footer">
+											<div class="fw-divider-line-styled ls ms left-line"></div>
+											<div class="fw-divider-space divider-30 divider-lg-35"></div>
+											<div class="entry-meta">
+												<span class="author vcard">
+													by
+													<img src="images/team/testimonial1.jpg" alt="img">
+													<a class="url fn n" href="blog-right.html">James A. Bart</a>
+												</span>
+												<div>
+													<span class="more-button">
+														<a class="btn btn-maincolor" href="blog-single-right.html">read more</a>
+													</span>
+													<span class="social-icons">
+														<a href="https://www.facebook.com/" class="fa fa-facebook" title="facebook"></a>
+														<a href="https://www.instagram.com/" class="fa fa-instagram" title="instagram"></a>
+														<a href="https://web.telegram.org/" class="fa fa-paper-plane" title="telegram"></a>
+													</span>
+												</div>
+											</div>
+										</div>
+									</div>
+								</article>
+								<article class="vertical-item ls content-padding box-shadow post type-post status-publish format-standard has-post-thumbnail">
+									<div class="item-media post-thumbnail">
+										<a href="blog-single-right.html">
+											<img src="images/blog/shortcodes/04.jpg" alt="img">
+										</a>
+									</div>
+									<div class="item-content">
+										<header class="entry-header">
+											<div class="entry-meta">
+												<span class="cat-links">
+													<a href="blog-right.html" rel="category tag">
+														patios
+													</a>
+												</span>
+											</div>
+											<h5 class="entry-title">
+												<a href="blog-single-right.html" rel="bookmark">
+													Commercial Travertine Pavers
+												</a>
+											</h5>
+										</header>
+										<div class="entry-footer">
+											<div class="fw-divider-line-styled ls ms left-line"></div>
+											<div class="fw-divider-space divider-30 divider-lg-35"></div>
+											<div class="entry-meta">
+												<span class="author vcard">
+													by
+													<img src="images/team/testimonial1.jpg" alt="img">
+													<a class="url fn n" href="blog-right.html">Roger P. Johnson</a>
+												</span>
+												<div>
+													<span class="more-button">
+														<a class="btn btn-maincolor" href="blog-single-right.html">read more</a>
+													</span>
+													<span class="social-icons">
+														<a href="https://www.facebook.com/" class="fa fa-facebook" title="facebook"></a>
+														<a href="https://www.instagram.com/" class="fa fa-instagram" title="instagram"></a>
+														<a href="https://web.telegram.org/" class="fa fa-paper-plane" title="telegram"></a>
+													</span>
+												</div>
+											</div>
+										</div>
+									</div>
+								</article>
+							</div>
+						</div>
+					</div>
+				</div>
+			</section>
+			<!--End Section Blog-->
+=======
+	
+>>>>>>> 668457b6c6b68569998eccb1baa64e7868916cbf
 
 
 			<footer class="page_footer footer-1 text-center text-sm-left  ds s-pt-lg-100 s-pt-md-90 s-pt-60  s-pb-30 c-mb-30">
@@ -1094,11 +1275,17 @@
 						<div class="col-lg-5 col-12 text-center text-lg-right">
 							<div id="mwt_bloginfo-2" class="widget widget_bloginfo">
 								<span class="social-icons">
+<<<<<<< HEAD
 									<a href="https://www.facebook.com/Lamijalaminati" class="fa fa-facebook " target="_blank"></a>
 									
 									<a href="https://www.linkedin.com/" class="fa fa-linkedin " target="_blank"></a>
 									<a href="https://www.instagram.com/lamija_laminati_parketi/" class="fa fa-instagram " target="_blank"></a>
 									
+=======
+									<a href="https://www.facebook.com/" class="fa fa-facebook " target="_blank"></a>
+									<a href="https://www.linkedin.com/" class="fa fa-linkedin " target="_blank"></a>
+									<a href="https://www.instagram.com/" class="fa fa-instagram " target="_blank"></a>
+>>>>>>> 668457b6c6b68569998eccb1baa64e7868916cbf
 								</span>
 							</div>
 						</div>
